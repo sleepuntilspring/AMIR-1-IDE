@@ -1,1 +1,1 @@
-# AMIR-1-IDE
+# IDE for AMIR-1 CPU 
