@@ -18,4 +18,5 @@ The AMIR-1 CPU represents a new 32-bit softcore processor, crafted by enhancing 
 ## How to use
 1. Click on the folder button to open files.
 2. Choose the temp_input2.txt file
-!(https://github.com/sleepuntilspring/AMIR-IDE/blob/main/Images/input.png)
+![input](https://github.com/sleepuntilspring/AMIR-IDE/assets/104352171/6f8e9041-7ce8-4400-9bd2-33cc08632768)
+
